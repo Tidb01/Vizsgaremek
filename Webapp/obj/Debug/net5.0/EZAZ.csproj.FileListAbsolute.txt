@@ -1,0 +1,9 @@
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.AssemblyInfoInputs.cache
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.AssemblyInfo.cs
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.RazorAssemblyInfo.cache
+C:\Users\Diak\Desktop\EZAZ-master\obj\Debug\net5.0\EZAZ.RazorAssemblyInfo.cs
